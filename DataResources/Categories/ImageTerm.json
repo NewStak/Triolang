@@ -1,6 +1,8 @@
 {
 	"options": {
-	        "name": "Image Term 1", "timePerSetInSeconds": 330},
+	        "name": "Image Term 1", "timePerSetInSeconds": 330,
+	    "imageUrl": "https://1.bp.blogspot.com/-1uQRYMklACU/ToQ6aL-5uUI/AAAAAAAAAgQ/9_u0922cL14/s1600/cute-puppy-dog-wallpapers.jpg"}
+	},
 	"sets": [
 		[
 		 {"question": "Test questions 1", "answers": ["1", "2", "3", "4", "lol"], "correct": 3, "imageURL": "https://1.bp.blogspot.com/-1uQRYMklACU/ToQ6aL-5uUI/AAAAAAAAAgQ/9_u0922cL14/s1600/cute-puppy-dog-wallpapers.jpg"},
