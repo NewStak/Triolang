@@ -6,55 +6,47 @@
 	        "termid": "116", 
 	        "parentid": 0,
 	        "data": "{\"title\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"\u52a8\u7269\"},\"speech\":{\"en\":\"https:\/\/www.voca.vn\/assets\/sounds\/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"example\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"spell\":{\"en\":\"\u02c8an\u0259m\u0259l\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"D\u00f2ngw\u00f9\"}}",
-	        "content": "what can i do?",
-	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/dog-icon-16.png?itok=1GuUlNNQ",
-			"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+	        "status": 1
 
 		},
 		{
 	        "name": "Food & Drinks", 
 	        "termid": "133", 
 	        "parentid": 0,
-	        "data": "en:'something';",
-	        "content": "what can i do?",
+	        "data": "{\"title\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"\u52a8\u7269\"},\"speech\":{\"en\":\"https:\/\/www.voca.vn\/assets\/sounds\/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"example\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"spell\":{\"en\":\"\u02c8an\u0259m\u0259l\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"D\u00f2ngw\u00f9\"}}",
 	        "status": 1,
-	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/food.png?itok=omySu--o",
-	    	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/food.png?itok=omySu--o"
 
 		},
 		{
 	        "name": "Clothes & Accessories", 
 	        "termid": "153", 
 	        "parentid": 0,
-	        "data": "en:'something';",
-	        "content": "what can i do?",
+	        "data": "{\"title\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"\u52a8\u7269\"},\"speech\":{\"en\":\"https:\/\/www.voca.vn\/assets\/sounds\/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"example\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"spell\":{\"en\":\"\u02c8an\u0259m\u0259l\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"D\u00f2ngw\u00f9\"}}",
+
 	        "status": 1,
-	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/clothes.png?itok=l_uM73b9",
-	    	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/clothes.png?itok=l_uM73b9"
 
 		},
 		{
 	        "name": "Adjectives", 
 	        "termid": "178", 
 	        "parentid": 0,
-	        "data": "en:'something';",
-	        "content": "what can i do?",
+	        "data": "{\"title\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"\u52a8\u7269\"},\"speech\":{\"en\":\"https:\/\/www.voca.vn\/assets\/sounds\/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"example\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"spell\":{\"en\":\"\u02c8an\u0259m\u0259l\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"D\u00f2ngw\u00f9\"}}",
+
 	        "status": 1,
-	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/adjectives-icon.jpg?itok=bFR-IGwa",
-			"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/adjectives-icon.jpg?itok=bFR-IGwa"
 
 		},	
 		{
 	        "name": "Health", 
 	        "termid": "211", 
 	        "parentid": 0,
-	        "data": "en:'something';",
-	        "content": "what can i do?",
-	        "status": 1,
-	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN",
-	      	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+	        "data": "{\"title\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"\u52a8\u7269\"},\"speech\":{\"en\":\"https:\/\/www.voca.vn\/assets\/sounds\/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"example\":{\"en\":\"aniamal\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"china\"},\"spell\":{\"en\":\"\u02c8an\u0259m\u0259l\",\"vi\":\"\u0111\u1ed9ng v\u1eadt\",\"cn\":\"D\u00f2ngw\u00f9\"}}",
 
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN"
 		}
 	]
 }
