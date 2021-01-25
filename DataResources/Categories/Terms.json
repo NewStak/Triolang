@@ -1,0 +1,60 @@
+{
+	"term": 
+	[
+		{
+	        "name": "Animals", 
+	        "termid": "116", 
+	        "parentid": 0,
+	        "data": "[{"text":"تمساح","to":"ar","from":"en"},{"text":"Alligator","to":"nl","from":"en"},{"text":"Alligator","to":"fr","from":"en"},{"text":"Alligator","to":"de","from":"en"},{"text":"Alligatore","to":"it","from":"en"},{"text":"アリゲーター","to":"ja","from":"en"},{"text":"Аллигатор","to":"ru","from":"en"},{"text":"Cocodrilo","to":"es","from":"en"},{"text":"鳄鱼","to":"zh-cn","from":"en"},{"text":"鱷魚","to":"zh-tw","from":"en"},{"text":"Jacaré","to":"pt","from":"en"},{"text":"จระเข้","to":"th","from":"en"},{"text":"Cá sấu","to":"vi","from":"en"},{"text":"악어","to":"ko","from":"en"},{"text":"Buaya","to":"id","from":"en"},{"text":"एलीगेटर","to":"hi","from":"en"},{"text":"এলিগেটর","to":"bn","from":"en"},{"text":"Alligator","to":"af","from":"en"},{"text":"alligator","to":"sq","from":"en"},{"text":"ալիգատոր","to":"hy","from":"en"},{"text":"Aligator","to":"bs","from":"en"},{"text":"မိကျောင်း","to":"my","from":"en"},{"text":"Caimà","to":"ca","from":"en"},{"text":"Aligator","to":"hr","from":"en"},{"text":"Aligátor","to":"cs","from":"en"},{"text":"Alligator","to":"da","from":"en"},{"text":"Aligatoro","to":"eo","from":"en"},{"text":"alligaator","to":"et","from":"en"},{"text":"Alligator","to":"tl","from":"en"},{"text":"alligaattori","to":"fi","from":"en"},{"text":"Αλιγάτορας","to":"el","from":"en"},{"text":"મગર","to":"gu","from":"en"},{"text":"aligátor","to":"hu","from":"en"},{"text":"Alligator","to":"is","from":"en"},{"text":"ಅಲಿಗೇಟರ್","to":"kn","from":"en"},{"text":"ហ្គីរ៉ាហ្វ # អូដ្ឋ","to":"km","from":"en"},{"text":"Aligators","to":"lv","from":"en"},{"text":"алигатор","to":"mk","from":"en"},{"text":"അലിഗേറ്റർ","to":"ml","from":"en"},{"text":"एलिगेटर","to":"mr","from":"en"},{"text":"एलिगेटर","to":"ne","from":"en"},{"text":"Alligator","to":"no","from":"en"},{"text":"Aligator","to":"pl","from":"en"},{"text":"Aligator","to":"ro","from":"en"},{"text":"Алигатор","to":"sr","from":"en"},{"text":"අලිගාටර්","to":"si","from":"en"},{"text":"aligátor","to":"sk","from":"en"},{"text":"Alligator","to":"sw","from":"en"},{"text":"Alligator","to":"sv","from":"en"},{"text":"அலிகேட்டர்","to":"ta","from":"en"},{"text":"ఎలిగేటర్","to":"te","from":"en"},{"text":"Timsah","to":"tr","from":"en"},{"text":"Алігатор","to":"uk","from":"en"},{"text":"ایلیگیٹر","to":"ur","from":"en"},{"text":"Alligator","to":"cy","from":"en"}]",
+	        "content": "what can i do?",
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/dog-icon-16.png?itok=1GuUlNNQ"
+			"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+
+		},
+		{
+	        "name": "Food & Drinks", 
+	        "termid": "133", 
+	        "parentid": 0,
+	        "data": "en:'something';",
+	        "content": "what can i do?",
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/food.png?itok=omySu--o"
+	    	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+
+		},
+		{
+	        "name": "Clothes & Accessories", 
+	        "termid": "153", 
+	        "parentid": 0,
+	        "data": "en:'something';",
+	        "content": "what can i do?",
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/clothes.png?itok=l_uM73b9"
+	    	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+
+		},
+		{
+	        "name": "Adjectives", 
+	        "termid": "178", 
+	        "parentid": 0,
+	        "data": "en:'something';",
+	        "content": "what can i do?",
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/adjectives-icon.jpg?itok=bFR-IGwa"
+			"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+
+		},	
+		{
+	        "name": "Health", 
+	        "termid": "211", 
+	        "parentid": 0,
+	        "data": "en:'something';",
+	        "content": "what can i do?",
+	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN"
+	      	"speechUrl": "https://www.voca.vn/assets/sounds/fconqlw2s4i6v4x2pzwrxvh1z6ryhfmpmn9kwje1bq.mp3"
+
+		}
+	]
+}
