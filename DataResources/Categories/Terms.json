@@ -1,5 +1,5 @@
 {
-	"term": 
+	"terms": 
 	[
 		{
 	        "name": "Animals", 
@@ -7,7 +7,7 @@
 	        "parentid": 0,
 	        "data": {
                   	"title": {
-                      "fr": "Animaux", "vi": "động vật", "cn": "动物"
+                      "fr": "Animaux", "vi": "ộng vật", "cn": "动物"
                   	},
                   	"example": {
                       "fr": "aniamal", "vi": "động vật", "cn": "china"
