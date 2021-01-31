@@ -3,8 +3,8 @@
 	[
 		{
 	        "name": "Animals", 
-	        "termid": "116", 
-	        "parentid": 0,
+	        "termid": 116, 
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Animaux", "vi": "ộng vật", "cn": "动物"
@@ -22,8 +22,8 @@
 		},
 		{
 	        "name": "Food & Drinks", 
-	        "termid": "133", 
-	        "parentid": 0,
+	        "termid": 133, 
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Nourriture et boissons", "vi": "Đồ uống & thực phẩm", "cn": "食物和饮料"
@@ -41,8 +41,8 @@
 		},
 		{
 	        "name": "Clothes & Accessories", 
-	        "termid": "153", 
-	        "parentid": 0,
+	        "termid": 153, 
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Vêtements et accessoires", "vi": "Quần áo & Phụ kiện", "cn": "衣服及配件"
@@ -60,8 +60,8 @@
 		},
 		{
 	        "name": "Adjectives", 
-	        "termid": "178", 
-	        "parentid": 0,
+	        "termid": 178, 
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Adjectifs", "vi": "Tính từ", "cn": "形容词"
@@ -79,8 +79,8 @@
 		},	
 		{
 	        "name": "Health", 
-	        "termid": "211", 
-	        "parentid": 0,
+	        "termid": 211, 
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Santé", "vi": "Sức khỏe", "cn": "健康"
