@@ -61,7 +61,7 @@
 		{
 	        "name": "Adjectives", 
 	        "termid": 178, 
-	        "parentid": "116",
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Adjectifs", "vi": "Tính từ", "cn": "形容词"
@@ -80,7 +80,7 @@
 		{
 	        "name": "Health", 
 	        "termid": 211, 
-	        "parentid": "116",
+	        "parentid": "0",
 	        "data": {
                   	"title": {
                       "fr": "Santé", "vi": "Sức khỏe", "cn": "健康"
@@ -93,6 +93,24 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN",
+        "status": 1
+		},
+		{
+	        "name": "Pet Names", 
+	        "termid": 118, 
+	        "parentid": "116",
+	        "data": {
+                  	"title": {
+                      "fr": "Pet Names", "vi": "Thú cưng", "cn": "健康"
+                  	},
+                  	"example": {
+                      "fr": "Pet Names", "vi": "Thú cưng", "cn": "健康"
+                  	},
+                  	"spell": {
+                      "fr": "Pet Names", "vi": "Thú cưng", "cn": "健康"
+                  	}
+                  },	        "status": 1,
+	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/pets.jpg?itok=wtfuUZZz",
         "status": 1
 		}
 	]
