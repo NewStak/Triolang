@@ -60,7 +60,27 @@
                   },
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/goldfishes-150x150_1.png",
 	        "status": 1
+		},
+		{
+	        "title": "Hamster", 
+	        "nid": 9474, 
+	        "termid": 118, 
+	        "type": "",
+	       	"content": "",
+	        "data": {
+                  	"title": {
+                      "fr": "Poisson rouge", "vi": "Chuột đồng", "cn": "金鱼"
+                  	},
+                  	"example": {
+                      "fr": "aniamal", "vi": "động vật", "cn": "china"
+                  	},
+                  	"spell": {
+                      "fr": "aniamal", "vi": "động vật", "cn": "Jīnyú"
+                  	}
+                  },
+	        "status": 1
 		}
+
 
 
 	]
