@@ -88,7 +88,28 @@
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/rabbit-150x150.png",
 		"order": 0,"score": 0,"timestamp": 0,
 	        "status": 1
+		},
+		{
+		"id": 0, 
+	        "title": "Hamster", 
+	        "nid": 9474, 
+	        "termid": "118", 
+	        "type": "",
+	       	"content": "",
+	        "data": {
+                  	"title": {
+                       "en": "Hamster", "fr": "Hamster", "vi": "Chuột đồng", "cn": "仓鼠"
+                  	},
+                  	"example": {
+                       "en": "Hamster", "fr": "Hamster", "vi": "Chuột đồng", "cn": "仓鼠"
+                  	},
+                  	"spell": {
+                       "en": "Hamster", "fr": "Hamster", "vi": "Chuột đồng", "cn": "仓鼠"
+                  	}
+                  },
+	    	"imageUrl": "",
+		"order": 0,"score": 0,"timestamp": 0,
+	        "status": 1
 		}
-
 	]
 }
