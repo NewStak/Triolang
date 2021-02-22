@@ -5,6 +5,7 @@
 	        "title": "Animals", 
 	        "termid": 116, 
 	        "parentid": "0",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Animaux", "vi": "ộng vật", "cn": "动物"
@@ -26,6 +27,7 @@
 	        "title": "Food & Drinks", 
 	        "termid": 133, 
 	        "parentid": "0",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Nourriture et boissons", "vi": "Đồ uống & thực phẩm", "cn": "食物和饮料"
@@ -47,6 +49,7 @@
 	        "title": "Clothes & Accessories", 
 	        "termid": 153, 
 	        "parentid": "0",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Vêtements et accessoires", "vi": "Quần áo & Phụ kiện", "cn": "衣服及配件"
@@ -68,6 +71,7 @@
 	        "title": "Adjectives", 
 	        "termid": 178, 
 	        "parentid": "0",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Adjectifs", "vi": "Tính từ", "cn": "形容词"
@@ -88,6 +92,7 @@
 	        "title": "Health", 
 	        "termid": 211, 
 	        "parentid": "0",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Santé", "vi": "Sức khỏe", "cn": "健康"
@@ -108,6 +113,7 @@
 	        "title": "Pet Names", 
 	        "termid": 118, 
 	        "parentid": "116",
+	       	"content": "",
 	        "data": {
                   	"title": {
                       "fr": "Pet Names", "vi": "Thú cưng", "cn": "健康"
