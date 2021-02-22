@@ -2,7 +2,7 @@
 	"terms": 
 	[
 		{
-	        "name": "Animals", 
+	        "title": "Animals", 
 	        "termid": 116, 
 	        "parentid": "0",
 	        "data": {
@@ -17,11 +17,13 @@
                   	}
                   },
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/dog-icon-16.png?itok=1GuUlNNQ",
+		"order": 0,"score": 0,"timestamp": 0,
+
 	        "status": 1
 
 		},
 		{
-	        "name": "Food & Drinks", 
+	        "title": "Food & Drinks", 
 	        "termid": 133, 
 	        "parentid": "0",
 	        "data": {
@@ -36,11 +38,13 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/food.png?itok=omySu--o",
+		"order": 0,"score": 0,"timestamp": 0,
+
         "status": 1
 
 		},
 		{
-	        "name": "Clothes & Accessories", 
+	        "title": "Clothes & Accessories", 
 	        "termid": 153, 
 	        "parentid": "0",
 	        "data": {
@@ -55,11 +59,13 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/clothes.png?itok=l_uM73b9",
+		"order": 0,"score": 0,"timestamp": 0,
+
         "status": 1
 
 		},
 		{
-	        "name": "Adjectives", 
+	        "title": "Adjectives", 
 	        "termid": 178, 
 	        "parentid": "0",
 	        "data": {
@@ -74,11 +80,12 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/adjectives-icon.jpg?itok=bFR-IGwa",
-        "status": 1
+		"order": 0,"score": 0,"timestamp": 0,
+       		 "status": 1
 
 		},	
 		{
-	        "name": "Health", 
+	        "title": "Health", 
 	        "termid": 211, 
 	        "parentid": "0",
 	        "data": {
@@ -93,10 +100,12 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN",
-        "status": 1
+		"order": 0,"score": 0,"timestamp": 0,
+
+        	"status": 1
 		},
 		{
-	        "name": "Pet Names", 
+	        "title": "Pet Names", 
 	        "termid": 118, 
 	        "parentid": "116",
 	        "data": {
@@ -111,6 +120,8 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/pets.jpg?itok=wtfuUZZz",
+		"order": 0,"score": 0,"timestamp": 0,
+
         "status": 1
 		}
 	]
