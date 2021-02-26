@@ -28,7 +28,7 @@
 	        "title": "Do you speak English?", 
 	        "nid": 9472, 
 	        "termid": "118", 
-	        "type": "",
+	        "type": "word",
 	       	"content": "",
 	        "data": {
                   	"title": {
@@ -50,7 +50,7 @@
 	        "title": "Goldfish", 
 	        "nid": 9473, 
 	        "termid": "118", 
-	        "type": "",
+	        "type": "word",
 	       	"content": "",
 	        "data": {
                   	"title": {
@@ -72,7 +72,7 @@
 	        "title": "Rabbit", 
 	        "nid": 9473, 
 	        "termid": "118", 
-	        "type": "",
+	        "type": "word",
 	       	"content": "",
 	        "data": {
                   	"title": {
@@ -94,7 +94,7 @@
 	        "title": "Hamster", 
 	        "nid": 9474, 
 	        "termid": "118", 
-	        "type": "",
+	        "type": "word",
 	       	"content": "",
 	        "data": {
                   	"title": {
