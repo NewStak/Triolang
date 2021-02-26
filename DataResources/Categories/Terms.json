@@ -18,7 +18,7 @@
                   	}
                   },
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/dog-icon-16.png?itok=1GuUlNNQ",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
 
 	        "status": 1
 
@@ -40,7 +40,7 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/food.png?itok=omySu--o",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
 
         "status": 1
 
@@ -62,7 +62,7 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/clothes.png?itok=l_uM73b9",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
 
         "status": 1
 
@@ -84,7 +84,7 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/adjectives-icon.jpg?itok=bFR-IGwa",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
        		 "status": 1
 
 		},	
@@ -105,7 +105,7 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/health.png?itok=tgMZQNAN",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
 
         	"status": 1
 		},
@@ -126,7 +126,7 @@
                   	}
                   },	        "status": 1,
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/styles/thumbnail/public/pets.jpg?itok=wtfuUZZz",
-		"order": 0,"score": 0,"timestamp": 0,
+		"weight": 0,"score": 0,"timestamp": 0,
 
         "status": 1
 		}
