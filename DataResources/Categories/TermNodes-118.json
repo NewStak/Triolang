@@ -17,6 +17,9 @@
                   	},
                   	"spell": {
                       "en": "Cat","fr": "aniamal", "vi": "động vật", "cn": "Māo"
+                  	},
+                  	"speech": {
+                       "en": "Rabbit", "fr": "Poisson rouge", "vi": "Con Thỏ", "cn": "金鱼"
                   	}
                   },
 	    	"imageUrl": "http://triolang.dm.muabanhue.com/sites/default/files/cat-150x150_1.png",
@@ -35,7 +38,7 @@
                        "en": "Dog","fr": "Chien", "vi": "con Chó", "cn": "狗"
                   	},
                   	"example": {
-                       "en": "Dog","fr": "Chien", "vi": "con Chó", "cn": "狗"
+                       "en": "Dog","fr": "Chien", "vi": "con Chó", "cn": "狗" 
                   	},
                   	"spell": {
                        "en": "Dog","fr": "Chien", "vi": "con Chó", "cn": "狗"
